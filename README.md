@@ -14,8 +14,6 @@
 ---
 
 ### Methods
-
-#### Methods
 * rent() - This method handles the rental of the vehicle and checks if it's already rented.
 * vehicleDetails() - This method retrieves the vehicle's details such as model.
 * returnVehicle() - This method handles the return of a rented vehicle.
